@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\user\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\classiter.h(44): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  c:\users\user\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\classiter.h(48): note: см. в справочнике сведения о создании экземпляров класса класс шаблон при компиляции "Iterator<Type>"
+c:\users\user\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\classiter.h(44): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\user\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\classiter.h(44): error C2238: непредвиденные лексемы перед ";"
