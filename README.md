@@ -12,3 +12,7 @@ by [kusok_of_dobra](https://github.com/kuso4egdobra)
 [**Лабораторная работа №2**](https://github.com/anastasialavrova/bmstu_OOP/tree/master/lab_02/ConsoleApplication3)
 
 Создание класса "множество"
+
+[**Лабораторная работа №3**](https://github.com/anastasialavrova/bmstu_OOP/tree/master/lab_03)
+
+Моделирование работы лифта
